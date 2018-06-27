@@ -7,6 +7,7 @@ __pycache__/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+*.class
 
 # Windows:
 Thumbs.db
